@@ -6,4 +6,8 @@ Integrantes:
 3. Pendiente
 
 Proyecto:
+<<<<<<< HEAD
 Cambio de persona seria
+=======
+Guanabana
+>>>>>>> patolado
